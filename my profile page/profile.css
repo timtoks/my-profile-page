@@ -1,0 +1,26 @@
+.main{
+    background-color: aquamarine;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+    padding: 20px;
+    box-shadow: 3px;
+}
+.profile-logo{
+    display: block;
+     width: 100px;
+    border-radius: 20%;
+   border: 2px solid #222222;
+}
+.email{
+    padding: 10px;
+    border: 2px solid #222222;
+}
+button{
+    margin-top: 20px;
+    padding: 10px;
+    color: #222222;
+    border: 2px solid #222222;
+}
